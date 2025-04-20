@@ -1,1 +1,1 @@
-game:GetService('TeleportService'):TeleportToPlaceInstance(858965717138843, 'a4676500-fae7-4627-8a7b-652de3e2481e', game.Players.LocalPlayer)
+game:GetService('TeleportService'):TeleportToPlaceInstance(920587237, 'dab1a186-d016-4aed-a041-b9e59aba93bf', game.Players.LocalPlayer)
